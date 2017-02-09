@@ -5,6 +5,10 @@ using System.Linq;
 
 namespace CSharp6MagicNoSqlInjectionMethod
 {
+    /// <summary>
+    /// hard core version of this on Jon Skeet's GitHub account
+    /// http://go.beeming.net/2k8kpFW
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
